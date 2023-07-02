@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+Repository link :https://github.com/Prajwakene/chat-app-ReactJS-.io.git
+
+deployment link : https://chat-app-prajwalkene.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
