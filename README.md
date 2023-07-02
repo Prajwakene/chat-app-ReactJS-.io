@@ -1,9 +1,9 @@
 # Getting Started with Create React App
-userName : Alan ,Bob,Elin ,Carol,Dean <= any one of this 
-PassWord : 123123
-# Repository link :https://github.com/Prajwakene/chat-app-ReactJS-.io.git
+# userName : Alan ,Bob,Elin ,Carol,Dean <= any one of this 
+# PassWord : 123123
+## Repository link :https://github.com/Prajwakene/chat-app-ReactJS-.io.git
 
-deployment link : https://chat-app-prajwalkene.netlify.app/
+## deployment link : https://chat-app-prajwalkene.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
